@@ -8,7 +8,7 @@
     "bootable-environment": "0.2.x",
     "express": "3.x.x",
     "connect-powered-by": "0.1.x",
-    "ejs": "0.8.x",
+    "ejs": "2.5.5",
     "mongodb": "~1.4.35",
     "mongoose": "~3.8.25"
   },
